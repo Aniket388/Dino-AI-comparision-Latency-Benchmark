@@ -1,0 +1,6 @@
+{
+  "name": "JEV vs General LLMs - Real-Time Dino Latency Benchmark",
+  "description": "Deterministic real-time benchmark comparing TypeSafe JEV decision model against general-purpose LLMs (Gemini) in a Chrome Dino speed trial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

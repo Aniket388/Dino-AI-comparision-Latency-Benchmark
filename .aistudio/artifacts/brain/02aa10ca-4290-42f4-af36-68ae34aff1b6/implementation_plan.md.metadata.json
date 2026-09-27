@@ -1,0 +1,6 @@
+{
+  "summary":  "Implemented Best-of-5 benchmark mode for the Chrome Dino AI Showdown. Features 5 automated synchronized rounds with deterministic per-round obstacle seeds, speed locking across all 5 rounds, per-round winner determination by higher score with crash handling and draw support, real-time results table (ROUND | DINO 1 SCORE | DINO 2 SCORE | ROUND WINNER | DINO 1 LATENCY | DINO 2 LATENCY | COST), comprehensive final summary with win counts, total score tiebreaking, average/best scores, latencies, total costs, and crashes, along with STOP SERIES and RESET SERIES controls. Single-match mode remains fully intact.",
+  "updatedAt":  "2026-09-27T19:27:35.744424898Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
