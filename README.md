@@ -1,5 +1,3 @@
-https://jev-vs-general-llms-real-time-dino.onrender.com/
-
 # Dino LLM Benchmarking System
 
 A real-time, side-by-side Chrome Dino-style game that pits **JEV** (TypeSafe's decision model) against a general-purpose LLM such as **Google Gemini** on identical, seeded obstacles. Every decision is timed, and a decision that arrives too late makes that dino crash, so latency becomes something you can see.
