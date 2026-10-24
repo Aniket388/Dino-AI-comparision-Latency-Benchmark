@@ -72,18 +72,6 @@ src/types/benchmark.ts     Shared types
 
 ---
 
-## Run it locally
-
-```bash
-git clone https://github.com/Aniket388/Dino-AI-comparision-Latency-Benchmark.git
-cd Dino-AI-comparision-Latency-Benchmark
-npm install
-npm run dev
-```
-
-Open the printed local address, click **Configure APIs**, paste a key for each side, test both connections and start a match.
-
-Optional server-side keys go in a `.env` file (see `.env.example`): `GEMINI_API_KEY` and `OPENROUTER_API_KEY`. If these are set, they act as a fallback for visitors who don't enter their own key, so leave them unset on a public deployment unless you want to pay for that usage.
 
 ## Deploy (Render, free)
 
